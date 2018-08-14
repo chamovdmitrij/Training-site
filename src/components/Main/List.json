@@ -1,0 +1,10 @@
+{"data": [{"name":"Mikhail Vulfovich Ioffe",         "rank":"Professor, Head of Department ", "country":"St Petersburg, Russia"},
+		  {"name":"Aleksandr Andreevich Andrianov",  "rank":"professor",                      "country":"St Petersburg, Russia"}, 
+          {"name":"Nikolaj Viktorovich Antonov",     "rank":"professor",                      "country":"St Petersburg, Russia"},
+          {"name":"Sergey Sergeevich Afonin",        "rank":"professor",                      "country":"St Petersburg, Russia"},
+          {"name":"Alexey Valer'evich Golovnev",     "rank":"associate professor",            "country":"St Petersburg, Russia"},
+          {"name":"Sergey Paston",    				 "rank":"associate professor",            "country":"St Petersburg, Russia"},
+          {"name":"Nikolay Mikhailovich Gulitskiy",  "rank":"associate professor",            "country":"St Petersburg, Russia"},
+          {"name":"Anton Nazarov",  				 "rank":"associate professor",            "country":"St Petersburg, Russia"}
+        ]
+}
