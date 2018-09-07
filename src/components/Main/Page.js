@@ -1,6 +1,6 @@
-import React from 'react';
+import React from 'react'
 import Arxiv from './Arxiv'
-import DataAPI from './api.js';
+import DataAPI from './api.js'
 
 var photo = {};
 
@@ -10,6 +10,7 @@ function importAll(r) {
 
 importAll( require.context('../PeoplePhoto/', true, /\.jpg$/) );
 console.log(photo);
+
 const baseURL = 'https://arxiv.org/a/';
 
 const Img = (props) => {
@@ -55,4 +56,4 @@ const Page = (props) => {
 	);
 }
 
-export default Page; 
+export default Page

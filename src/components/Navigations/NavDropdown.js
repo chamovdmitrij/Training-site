@@ -30,4 +30,4 @@ class NavDropdown extends React.Component {
   }
 }
 
-export default NavDropdown;
+export default NavDropdown

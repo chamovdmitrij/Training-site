@@ -1,4 +1,4 @@
-import DB from './List';
+import DB from './List'
 
 const api = {
 	data: DB.data,
@@ -10,4 +10,4 @@ const api = {
 	} 
 }
 
-export default api;
+export default api

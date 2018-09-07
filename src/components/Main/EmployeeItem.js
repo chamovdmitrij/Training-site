@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 
-const MyItem = props => {
+const EmployeeItem = props => {
 	const oddLiStyle = (+props.id % 2 === 0) ? "transparent p-1 m-1 text-center rounded shadow" : "p-1 m-1 text-center rounded shadow";  
 	return (
 		<li className={oddLiStyle} >
@@ -15,4 +15,4 @@ const MyItem = props => {
 	);
 }
 
-export default MyItem;
+export default EmployeeItem

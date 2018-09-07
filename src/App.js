@@ -1,17 +1,10 @@
-import React, { Component } from 'react';
-//import logo from './logo.svg';
-import './App.css';
-import Router from './Router';
-import Navigation from './components/Navigations/Navigation';
+import React, { Component } from 'react'
+import './App.css'
+import Router from './Router'
+import Navigation from './components/Navigations/Navigation'
 
 
 class App extends Component {
-  /*constructor(props){
-    super(props);
-    this.state={
-      isActiveHome: true
-    };
-  } */
 
   render() {
     return (
@@ -23,4 +16,4 @@ class App extends Component {
   }
 }
 
-export default App;
+export default App

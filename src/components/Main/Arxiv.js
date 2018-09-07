@@ -1,5 +1,5 @@
-import React from 'react';
-import axios from 'axios';
+import React from 'react'
+import axios from 'axios'
 
 function getPapers(url) {
     return axios.get(url + '.json');
@@ -44,4 +44,4 @@ class Arxiv extends React.Component {
 	}
 }
 
-export default Arxiv;
+export default Arxiv
